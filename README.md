@@ -1,1 +1,1 @@
-# Test_Automation_DPI_8th_Project
+# SQA_DPI_8th_Project
